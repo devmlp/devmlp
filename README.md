@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmlp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=050256" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devmlp&bg_color=000000&color=050256&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h2>Meus Contatos</h2>
 <a href="https://www.linkedin.com/in/murilo-leite-334436202/" target="_blank" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge linkedin">
@@ -23,18 +21,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript)](https://skillicons.dev)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devmlp}/count.svg" /></p> 
-<br></div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devmlp}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050256&height=120&section=footer"/>
 
