@@ -9,14 +9,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devmlp&bg_color=000000&color=050256&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">  
-<a href="https://www.instagram.com/eumurilolp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%050256?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<h2>Meus Contatos</h2>
+<a href="https://www.linkedin.com/in/murilo-leite-334436202/" target="_blank" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge linkedin">
+</a>
+<a href="devmlp93@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Badge Gmail">
+</a>
+  
 </div> 
  
 ### 🌐 Linguagens e Ferramentas 🌐
@@ -27,6 +27,13 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devmlp}/count.svg" /></p> 
 <br></div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050256&height=120&section=footer"/>
