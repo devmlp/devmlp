@@ -19,7 +19,7 @@
  
 ### 🌐 Linguagens e Ferramentas 🌐
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
